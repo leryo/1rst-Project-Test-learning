@@ -9,5 +9,6 @@ namespace formtest2
     class NewClass
     {
         // commentaire
+        // test 2
     }
 }
