@@ -10,5 +10,6 @@ namespace formtest2
     {
         // commentaire
         // test 2
+        // test 3
     }
 }
